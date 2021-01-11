@@ -28,7 +28,7 @@ SECRET_KEY = '_pm96o)lxn74m4gzph^rq&bhj)_eb38*6xx*=j9ky9)xazc0o0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['206.189.6.171','ike1750.xyz','www.ike1750.xyz']
+ALLOWED_HOSTS = ['167.99.214.127','ike1750.xyz','www.ike1750.xyz']
 
 
 # Application definition
