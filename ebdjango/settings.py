@@ -125,14 +125,6 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
-
-PWA_APP_DIR = 'ltr'
-PWA_APP_LANG = 'en-US'
-
-
-
-
-
 STATIC_URL = '/static/'
 
 
